@@ -1,8 +1,5 @@
 # OrderPlaceSdkPrd12.0.1
 
-If you need to Uat, please integrate [OrderPlaceSdkPrd12.0.1
-](https://github.com/AigensTechnology/OrderPlaceSdkPrd12.0.1)
-
 ## config params ref
 
 https://docs.google.com/document/d/1YkTXzsdmWD7Q8BgLVWlekI6nyiS1wcU2Y6T2aHUKiJw/edit?usp=sharing
